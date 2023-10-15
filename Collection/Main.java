@@ -4,9 +4,13 @@ import java.sql.Array;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) {
+
+        // Array List
+
         ArrayList<String> list = new ArrayList<String>();
         list.add("harsh");
         list.add("Ravi");
@@ -38,9 +42,5 @@ public class Main {
 //        while(itr2.hasNext()){
 //            System.out.println(itr2.next());
 //        }
-
-
-
-
     }
 }
