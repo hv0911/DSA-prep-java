@@ -42,4 +42,6 @@ public class Easy {
         answer[startIdx] = s[endIdx];
     }
 
+
+
 }
